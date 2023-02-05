@@ -562,3 +562,6 @@ sys 라이브러리를 사용할 때는, 한 줄을 입력 받고 나서, 반드
 # arr = [input()[0] for _ in range(int(input()))]
 
 
+# a = 5
+# if 1<= a <=7: ##### 이렇게 가능 #####
+#     print(a)
